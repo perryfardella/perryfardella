@@ -1,6 +1,13 @@
 ## Hi, I'm Perry.
 
-- :construction_worker: ayo
+:construction_worker: For work, I'm a Software Engineer and CPA
+
+:telescope: My current preferred stack is:
+
+- NextJS
+- Shadcn
+- Tailwind
+- Supabase
 
 <!--
 **perryfardella/perryfardella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
