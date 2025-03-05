@@ -1,25 +1,9 @@
 ## Hi, I'm Perry.
 
-:construction_worker: For work, I'm a Software Engineer and CPA
+:construction_worker: I'm a Software Engineer and CPA, with an affinity for financial software.
 
-:telescope: My current preferred stack is:
+:computer: My current preferred stack is:
 
 - NextJS
-- Shadcn
-- Tailwind
+- Tailwind / Shadcn / v0
 - Supabase
-
-<!--
-**perryfardella/perryfardella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
