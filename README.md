@@ -4,10 +4,13 @@
 
 :computer: My current stack is NextJS/Shadcn/Supabase
 
-###
+## Contact me
 
-[![GitHub perryfardella](https://img.shields.io/github/followers/perryfardella?label=follow&style=social)](https://github.com/perryfardella)
-[![Twitter perryfardella](https://img.shields.io/badge/follow-perryfardella-1DA1F2?logo=x&style=social)](https://twitter.com/perryfardella)
+Email: perry.fardella@live.com
+
+Github: [![GitHub perryfardella](https://img.shields.io/github/followers/perryfardella?label=follow&style=social)](https://github.com/perryfardella)
+
+Twitter / X: [![Twitter perryfardella](https://img.shields.io/badge/follow-perryfardella-1DA1F2?logo=x&style=social)](https://twitter.com/perryfardella)
 
 ## Github Profile - I'm working on it!
 
