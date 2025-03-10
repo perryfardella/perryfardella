@@ -6,7 +6,7 @@
 
 ## Contact me
 
-Email: perry.fardella@live.com
+Email: me@perryfardella.com
 
 Github: [![GitHub perryfardella](https://img.shields.io/github/followers/perryfardella?label=follow&style=social)](https://github.com/perryfardella)
 
